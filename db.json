@@ -1,0 +1,36 @@
+{
+  "kategorier": [
+    {"type": "Bil", "id": 1},
+    {"type": "Motorsykkel", "id": 2},
+    {"type": "Hus", "id": 3},
+    {"type": "Klær", "id": 4},
+    {"type": "Blandet", "id": 5}
+  ],
+  "produkter": [
+    {
+      "navn": "Enebolig",
+      "beskrivelse": "Veldig fin enebolig! God beliggenhet",
+      "type_id": 3,
+      "image_link": "https://files-cdn.vitaminw.no/bb741e4824f94706a4f3aafb6e56570f/Root/Referanser/Hus+9.jpg/Hus+9-fullskjerm-desktop.jpg?ts=637122662206961966"
+    },
+    {
+      "navn": "Volkswagen Golf",
+      "beskrivelse": "Pent kjørt bil. Nylig byttet bremser",
+      "type_id": 1,
+      "image_link": "https://crdms.images.consumerreports.org/c_lfill,w_470,q_auto,f_auto/prod/cars/chrome/white/2021VWC020017_1280_01"
+    },
+    {
+      "navn": "T-skjorte",
+      "beskrivelse": "Stilfull t-skjorte i godt materiale!",
+      "type_id": 4,
+      "image_link": "https://burst.shopifycdn.com/photos/grey-t-shirt.jpg?width=1850&format=pjpg&exif=1&iptc=1"
+    },
+    {
+      "navn": "Yamaha YZF 125",
+      "beskrivelse": "Utrolig lettkjørt motorsykkel. Lav Km-stand.",
+      "type_id": 4,
+      "image_link": "https://triomotor.no/wp-content/uploads/2018/11/2019-Yamaha-MT125-EU-Tech_Black-Studio-001-03_Mobile.jpg"
+    }
+  ],
+  "favoritter": []
+}

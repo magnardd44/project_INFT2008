@@ -1,0 +1,16 @@
+export default Colors = {
+  login: 'rgb(253,192,3)',
+  background: 'white',
+  light: 'white',
+  dark: 'rgb(64,64,64)',
+  footerCardBackground: 'rgb(212,16,64)',
+  cardColor: 'white',
+  topCardBackgroundColor: 'white',
+  TabBackgroundColor: 'rgb(38,20,64)',
+  darkPinkHeader: 'rgb(147, 13, 68)',
+  darkBlue: 'rgb(38,18,64)',
+  headerLightPink: '#EFD4DD',
+  lightGray: '#F9F7FC',
+  darkPurple: '#2D144D',
+  lightGreen: '#00A034',
+};
